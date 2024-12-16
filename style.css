@@ -1,0 +1,44 @@
+#outer{
+    height: 600px; 
+    width: 600px;
+    border-radius:20px;
+    box-shadow:0 0 10px 15px grey ;
+    background-color:rgba(255, 0, 0, 0.652);
+    margin: 50px auto;
+text-align: center;
+
+}
+#outer input{
+    height: 50px;
+    width: 80%;
+    outline:none ;
+    border:2px solid brown;
+
+
+}
+#outer button{
+    height:50px;
+border: none;
+width: 100px;
+background-color:plum;
+border-radius: 15px;
+margin-top: 40px;
+font-size: 20px;
+
+}
+#word{
+    text-align: justify;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+
+#meaning{
+    width: 80%;
+    min-height: 100px;
+ border-radius: 15px;
+ font-size: 18px;
+ margin-top: 70px;
+ margin-left: 30px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
